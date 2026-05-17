@@ -8,22 +8,6 @@ html,body{
     width: 100;
 }
 h1{
-    color: rgb(15, 16, 16);
-    background:linear-gradient(to right bottom,rgb(203, 212, 203),rgb(128, 0, 107),teal ) ;
-   font-size:100px ; 
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-   font-style: italic; 
-   text-align:center ;
-   text-transform: capitalize;
-}
- div {height: 250px;
-    width: 300px;
-    background:red ;
- }
- #inner{
-    height: 170px;
-    width: 170px;
+    color: springgreen;
     background: black;
-    
-
- }
+}
